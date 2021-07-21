@@ -1,26 +1,17 @@
 Reference, Quantity, Value, Footprint, Datasheet, LCSC Part#, Mfr, Mrf, Part#
-C1 ,1,"1uF","Capacitor_SMD:C_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf","C28323","Samsung Electro-Mechanics","","CL21B105KBFNNNE"
-C16 ,1,"10uF","Capacitor_SMD:C_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf","C15850","Samsung Electro-Mechanics","","CL21A106KAYNNNE"
-C2 C4 C6 C8 C9 C10 C11 C12 C13 C15 C18 C20 C22 C24 C26 C28 C30 C34 C36 C38 C40 C42 C44 C45 C48 C50 C52 C54 C56 C58 C60 C63 C66 C67 C69 C71 C72 C73 C74 C75 C76 C77 C78 C79 ,44,"0.1uF","Capacitor_SMD:C_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/YAGEO-CC0805KRX7R9BB104_C49678.pdf","C49678","YAGEO","YAGEO","CC0805KRX7R9BB104"
-D_1 D_2 D_3 D_4 D_5 D_6 D_7 D_8 D_9 D_10 D_11 D_12 D_13 D_15 D_16 D_17 D_18 D_19 D_20 D_21 D_22 D_23 D_24 D_25 D_26 D_27 D_28 D_29 D_30 D_31 D_33 D_34 D_35 D_36 D_37 D_38 D_39 D_40 D_41 D_42 D_43 D_44 D_45 D_46 D_47 D_48 D_49 D_50 D_51 D_52 D_53 D_54 D_55 D_56 D_57 D_58 D_59 D_60 D_61 D_62 D_63 D_64 D_65 D_66 D_67 D_68 D_69 D_70 D_71 D_72 ,70,"D","kbd:D3_SMD_v2","https://datasheet.lcsc.com/szlcsc/Semtech-1N4148W_C81598.pdf","C81598","	ST(Semtech)","Semtech","1N4148W"
-F1 ,1,"500mA","Fuse:Fuse_1206_3216Metric","https://datasheet.lcsc.com/szlcsc/TECHFUSE-nSMD025_C70068.pdf","C70068","TECHFUSE","","nSMD025"
-J1 ,1,"USB2_C_Receptacle","usb-type-c:Mid_Mount-USB_C_HandSoldering","https://datasheet.lcsc.com/lcsc/1811102326_Korean-Hroparts-Elec-TYPE-C-31-M-14_C223907.pdf","C223907","Korean Hroparts Elec","","TYPE-C-31-M-14"
-J2 ,1,"ISP Header","Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical","~"
-K_1 K_2 K_3 K_4 K_5 K_6 K_7 K_8 K_9 K_10 K_11 K_12 K_13 K_14 K_16 K_18 K_19 K_20 K_21 K_22 K_23 K_24 K_25 K_26 K_27 K_28 K_29 K_30 K_31 K_34 K_35 K_36 K_37 K_38 K_39 K_40 K_41 K_42 K_43 K_44 K_46 K_48 K_49 K_50 K_51 K_52 K_53 K_54 K_55 K_56 K_57 K_58 K_60 K_61 K_70 K_71 K_72 ,57,"KEYSW","MX_Only:MXOnly-1U-NoLED",""
-K_15 ,1,"KEYSW","MX_Only:MXOnly-2U-ReversedStabilizers-NoLED",""
-K_17 ,1,"KEYSW","MX_Only:MXOnly-1.5U-NoLED",""
-K_32 K_33 K_59 ,3,"KEYSW","MX_Only:MXOnly-1.75U-NoLED",""
-K_45 K_47 K_66 ,3,"KEYSW","MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED",""
-K_62 K_63 K_64 K_67 K_68 K_69 ,6,"KEYSW","MX_Only:MXOnly-1.25U-NoLED",""
-K_65 ,1,"KEYSW","MX_Only:MXOnly-2.75U-ReversedStabilizers-NoLED",""
-LED1 LED2 LED3 LED4 LED5 LED6 LED7 LED8 LED9 LED10 LED11 LED12 LED13 LED15 LED17 LED18 LED19 LED20 LED21 LED22 LED23 LED24 LED25 LED26 LED27 LED28 LED29 LED30 LED33 LED34 LED35 LED36 LED37 LED38 LED39 LED40 LED41 LED42 LED43 LED44 LED45 LED47 LED48 LED49 LED50 LED51 LED52 LED53 LED54 LED55 LED56 LED57 LED58 LED59 LED60 LED62 LED63 LED64 LED65 LED66 LED67 LED68 LED69 LED70 LED71 LED72 ,66,"SK6812MINI-E","LED_kicad_footprints-master:YS-SK6812MINI-E","https://datasheet.lcsc.com/lcsc/2006020237_TONYU-DY-S352818-RGBC-6812-2T_C524051.pdf","C524051","TONYU","","	DY-S352818/RGBC/6812-2T"
-R1 R6 ,2,"10kΩ","Resistor_SMD:R_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1002T5E_C17414.pdf","C17414","UNI-ROYAL(Uniroyal Elec)","Uniroyal Elec","0805W8F1002T5E"
-R2 R3 ,2,"5.1kΩ","Resistor_SMD:R_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5101T5E_C27834.pdf","C27834","Uniroyal Elec","","0805W8F5101T5E"
-R4 R5 ,2,"22Ω","Resistor_SMD:R_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F220JT5E_C17561.pdf","C17561","	UNI-ROYAL(Uniroyal Elec)","Uniroyal Elec","0805W8F220JT5E"
-R7 ,1,"510Ω","Resistor_SMD:R_0805_2012Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5100T5E_C17734.pdf","C17734","	UNI-ROYAL(Uniroyal Elec)","Uniroyal Elec","0805W8F5100T5E"
-SW1 ,1,"RESET","random-keyboard-parts:SKQG-1155865","https://datasheet.lcsc.com/lcsc/1810130046_C-K-RS-187R05A2-DSMTRT_C221929.pdf","	C221929","C&K","","RS-187R05A2-DSMTRT"
-SW2 SW3 SW4 ,3,"Rotary_Encoder_Switch","Keebio-Parts:RotaryEncoder_EC11","~"
-U1 ,1,"ATmega32U4-AU","Keebio-Parts:ATMEGA32U4-AU","https://datasheet.lcsc.com/szlcsc/Microchip-Tech-ATMEGA32U4-AU_C44854.pdf","C44854","Microchip Tech","","ATMEGA32U4-AU"
-U2 ,1,"SRV05-4","Package_TO_SOT_SMD:SOT-23-6","https://datasheet.lcsc.com/lcsc/2005212033_TECH-PUBLIC-SRV05-4_C558418.pdf","C558418","TECH PUBLIC","","SRV05-4"
-ULED1 ULED2 ULED3 ULED4 ULED5 ULED6 ULED7 ULED8 ULED9 ULED10 ULED11 ULED12 ULED13 ULED14 ,14,"SK6812-MINI","LED_SMD:SK6812_Mini","https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf","","","","SK6812-MINI"
-Y1 ,1,"16MHz","proj_local:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering_Compact","https://datasheet.lcsc.com/lcsc/1912112237_Murata-Electronics-CSTNE16M0V530000R0_C341521.pdf","	C341521","	Murata Electronics","","	CSTNE16M0V530000R0"
+C1 ,1,1uF,Capacitor_SMD:C_0805_2012Metric,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf,C28323,Samsung Electro-Mechanics,,CL21B105KBFNNNE
+C16 ,1,10uF,Capacitor_SMD:C_0805_2012Metric,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf,C15850,Samsung Electro-Mechanics,,CL21A106KAYNNNE
+C2 C4 C6 C8 C9 C10 C11 C12 C13 C15 C18 C20 C22 C24 C26 C28 C30 C34 C36 C38 C40 C42 C44 C45 C48 C50 C52 C54 C56 C58 C60 C63 C66 C67 C69 C71 C72 C73 C74 C75 C76 C77 C78 C79 ,44,0.1uF,Capacitor_SMD:C_0805_2012Metric,https://datasheet.lcsc.com/szlcsc/YAGEO-CC0805KRX7R9BB104_C49678.pdf,C49678,YAGEO,YAGEO,CC0805KRX7R9BB104
+D_1 D_2 D_3 D_4 D_5 D_6 D_7 D_8 D_9 D_10 D_11 D_12 D_13 D_15 D_16 D_17 D_18 D_19 D_20 D_21 D_22 D_23 D_24 D_25 D_26 D_27 D_28 D_29 D_30 D_31 D_33 D_34 D_35 D_36 D_37 D_38 D_39 D_40 D_41 D_42 D_43 D_44 D_45 D_46 D_47 D_48 D_49 D_50 D_51 D_52 D_53 D_54 D_55 D_56 D_57 D_58 D_59 D_60 D_61 D_62 D_63 D_64 D_65 D_66 D_67 D_68 D_69 D_70 D_71 D_72 ,70,D,kbd:D3_SMD_v2,https://datasheet.lcsc.com/szlcsc/Semtech-1N4148W_C81598.pdf,C81598,"	ST(Semtech)",Semtech,1N4148W
+F1 ,1,500mA,Fuse:Fuse_1206_3216Metric,https://datasheet.lcsc.com/szlcsc/TECHFUSE-nSMD025_C70068.pdf,C70068,TECHFUSE,,nSMD025
+J1 ,1,USB2_C_Receptacle,usb-type-c:Mid_Mount-USB_C_HandSoldering,https://datasheet.lcsc.com/lcsc/1811102326_Korean-Hroparts-Elec-TYPE-C-31-M-14_C223907.pdf,C223907,Korean Hroparts Elec,,TYPE-C-31-M-14
+LED1 LED2 LED3 LED4 LED5 LED6 LED7 LED8 LED9 LED10 LED11 LED12 LED13 LED15 LED17 LED18 LED19 LED20 LED21 LED22 LED23 LED24 LED25 LED26 LED27 LED28 LED29 LED30 LED33 LED34 LED35 LED36 LED37 LED38 LED39 LED40 LED41 LED42 LED43 LED44 LED45 LED47 LED48 LED49 LED50 LED51 LED52 LED53 LED54 LED55 LED56 LED57 LED58 LED59 LED60 LED62 LED63 LED64 LED65 LED66 LED67 LED68 LED69 LED70 LED71 LED72 ,66,SK6812MINI-E,LED_kicad_footprints-master:YS-SK6812MINI-E,https://datasheet.lcsc.com/lcsc/2006020237_TONYU-DY-S352818-RGBC-6812-2T_C524051.pdf,C524051,TONYU,,"	DY-S352818/RGBC/6812-2T"
+R1 R6 ,2,10kΩ,Resistor_SMD:R_0805_2012Metric,https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1002T5E_C17414.pdf,C17414,UNI-ROYAL(Uniroyal Elec),Uniroyal Elec,0805W8F1002T5E
+R2 R3 ,2,5.1kΩ,Resistor_SMD:R_0805_2012Metric,https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5101T5E_C27834.pdf,C27834,Uniroyal Elec,,0805W8F5101T5E
+R4 R5 ,2,22Ω,Resistor_SMD:R_0805_2012Metric,https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F220JT5E_C17561.pdf,C17561,"	UNI-ROYAL(Uniroyal Elec)",Uniroyal Elec,0805W8F220JT5E
+R7 ,1,510Ω,Resistor_SMD:R_0805_2012Metric,https://datasheet.lcsc.com/lcsc/1811101612_TyoHM-RMC08055105-N_C269737.pdf,C269737,TyoHM,Uniroyal Elec,"	RMC08055105%N"
+SW1 ,1,RESET,random-keyboard-parts:SKQG-1155865,https://datasheet.lcsc.com/lcsc/1810130046_C-K-RS-187R05A2-DSMTRT_C221929.pdf,"	C221929",C&K,,RS-187R05A2-DSMTRT
+U1 ,1,ATmega32U4-AU,Keebio-Parts:ATMEGA32U4-AU,https://datasheet.lcsc.com/szlcsc/Microchip-Tech-ATMEGA32U4-AU_C44854.pdf,C44854,Microchip Tech,,ATMEGA32U4-AU
+U2 ,1,SRV05-4,Package_TO_SOT_SMD:SOT-23-6,https://datasheet.lcsc.com/lcsc/2005212033_TECH-PUBLIC-SRV05-4_C558418.pdf,C558418,TECH PUBLIC,,SRV05-4
+ULED1 ULED2 ULED3 ULED4 ULED5 ULED6 ULED7 ULED8 ULED9 ULED10 ULED11 ULED12 ULED13 ULED14 ,14,SK6812-MINI,LED_SMD:SK6812_Mini,https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf,,,,SK6812-MINI
+Y1 ,1,16MHz,proj_local:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering_Compact,https://datasheet.lcsc.com/lcsc/1912112237_Murata-Electronics-CSTNE16M0V530000R0_C341521.pdf,"	C341521","	Murata Electronics",,"	CSTNE16M0V530000R0"
